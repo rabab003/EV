@@ -2,7 +2,7 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <div className='nav'>
-      <div className='nav-logo'>Ev-olution</div>
+      <div className='nav-logo'>Ev</div>
 
       <ul className='nav-menu'>
         <li>home</li>
